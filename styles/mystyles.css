@@ -1,0 +1,43 @@
+.font_one{
+    color:blue;
+    
+}
+.newstyles{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.thisisnew{
+    text-align: center;
+}
+
+.newstylesshawty{
+    font-size: 35px;
+}
+
+body{
+    background-color:lightblue;
+}
+
+.make_bold{
+    font-weight:bold;
+}
+
+.image_style{
+    border: black solid 10px;
+}
+
+.image_me{
+    height: 300px;
+    align-content:center;
+
+}
+
+.center_guy{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.harrystyles{
+    font-size: 20px;
+}
+
